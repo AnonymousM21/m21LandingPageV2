@@ -96,3 +96,28 @@ a {
   border-radius: 10px;
   border: 2px solid #3882f6;
 }
+
+.sectionTwo {
+  background-color: #e5e7eb;
+}
+
+.sectionTwoContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0px auto;
+  padding: 45px 140px;
+}
+
+.quote {
+  color: #1f2937;
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 100;
+}
+
+.quoteAuthor {
+  font-weight: 700;
+  align-self: flex-end;
+}
