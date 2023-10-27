@@ -69,3 +69,30 @@ a {
   padding: 5px 22px;
   border-radius: 8px;
 }
+
+.sectionOne {
+  text-align: center;
+}
+
+.sectionOneHeader {
+  margin: 24px 0px;
+}
+
+.imagesContainer {
+  display: flex;
+  justify-content: center;
+  max-width: 1200px;
+  margin: 0px auto 52px;
+  padding: 0px 100px;
+  gap: 36px;
+  flex-wrap: wrap;
+}
+
+.images {
+  width: 152px;
+}
+
+.illustration {
+  border-radius: 10px;
+  border: 2px solid #3882f6;
+}
