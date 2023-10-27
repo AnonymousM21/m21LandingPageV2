@@ -121,3 +121,38 @@ a {
   font-weight: 700;
   align-self: flex-end;
 }
+
+.sectionThree {
+  padding: 50px 100px;
+}
+
+.sectionThreeContainer {
+  background-color: #3882f6;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  max-width: 900px;
+  margin: 0px auto;
+  padding: 26px;
+  border-radius: 5px;
+  gap: 48px;
+}
+
+.callToActionHeader {
+  color: #f9faf8;
+  font-size: 18px;
+}
+
+.callToActionSubText {
+  color: #e5e7eb;
+}
+
+.signUp2 {
+  color: #f9faf8;
+  background-color: #3882f6;
+  font-size: 14px;
+  padding: 4px 24px;
+  border-radius: 6px;
+  border: 2px solid #f9faf8;
+  flex-shrink: 0;
+}
