@@ -62,12 +62,12 @@ a {
 }
 
 .signUp1 {
-  color: #fff;
+  color: #fafafa;
   background-color: #3882f6;
-  font-weight: 700;
-  font-size: 16px;
-  padding: 5px 22px;
-  border-radius: 8px;
+  border: 2px solid #1f2937;
+  font-size: 14px;
+  padding: 5px 24px;
+  border-radius: 6px;
 }
 
 .sectionOne {
